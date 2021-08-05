@@ -38,5 +38,4 @@ SRCNNモデルを用いた高解像度の画像への変換
 * PSNR（ピーク信号対雑音比）を採用
 * 数式としては以下になり、30db以上であれば綺麗に見えるとのこと
 
-$$ PSNR = 10 $$
-$$ PSNR =10 log_{10} \frac{MAX^2}{MSE} \\ $$
+![PSNR =10 log_{10} \frac{MAX^2}{MSE}](https://render.githubusercontent.com/render/math?math=%5Cdisplaystyle+PSNR+%3D10+log_%7B10%7D+%5Cfrac%7BMAX%5E2%7D%7BMSE%7D)
